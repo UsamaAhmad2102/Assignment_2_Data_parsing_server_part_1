@@ -1,5 +1,5 @@
-# Assignment_2_Data_parsing_server_part_1
-Data parsing server - Part I
+# Assignment_2_Data_parsing_server_part_2
+Data parsing server - Part 2
 
 
 This is a continuation of the assignment: Data Parsing.
